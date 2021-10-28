@@ -8,4 +8,4 @@ It counts with these CRUD sections:
 - Locations
 - Provinces
 - Users (Has permission system)
-#This system was specially designed for selling stores, and counts with sales reports and historic sales made with exact date.
+<br />This system was specially designed for selling stores, and counts with sales reports and historic sales made with exact date.
