@@ -1,6 +1,6 @@
 # CRUD-VB.Net
-CRUD designed with VB.Net and SQL Server (2019).
-<b>¡Database file is the .md file!</b>
+CRUD designed with VB.Net and SQL Server (2019).</br>
+<b>¡Database file is the .md file!</b></br>
 It counts with these CRUD sections:
 - Clients
 - Suppliers
